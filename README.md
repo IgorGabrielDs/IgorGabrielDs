@@ -13,8 +13,7 @@ Hello buddy!👋</br>I'm Igor 🌿🦋
 
 - 🔭 I’m currently studying at Cesar School  
 - 🌱 I’m currently learning `Python` | `C#`  
-- 👯 I’m looking to collaborate on ...  
-- 🤔 I’m looking for help with ...  
+- 👯 I’m looking to collaborate on `game projects`
 - 💬 Ask me about ...  
 - 😄 Pronouns: He/him  
 - ⚡ Fun fact: I love games!
