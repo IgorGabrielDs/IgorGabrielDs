@@ -22,7 +22,9 @@ Hello buddy! </br>I'm Igor 🌿🦋
 </div>
 
 [![Radar-Maritmo]()](https://github.com/luccarissato/Radar-Maritimo)
-![IgorGabrielDs's Stats](https://github-readme-stats.vercel.app/api?username=IgorGabrielDs&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![IgorGabrielDs's Stats](https://github-readme-stats.vercel.app/api?username=IgorGabrielDs&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![IgorGabrielDs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorGabrielDs&theme=dark&hide_border=true)
+![IgorGabrielDs's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGabrielDs&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <div align='center'>
   
