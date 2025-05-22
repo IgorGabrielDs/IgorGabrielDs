@@ -2,7 +2,7 @@
 Hello buddy!👋</br>I'm Igor 🌿🦋
 </h1>
 
-<h2 align='center'>Atualmente apaixonado por:</h2> 
+<h2 align='center'> Currently passionate about:</h2> 
 
 <div align="center">
 
