@@ -2,12 +2,10 @@
 Hello buddy!👋</br>I'm Igor 🌿🦋
 </h1>
 
-## Atualmente apaixonado por:
+<h2 align='center'>Atualmente apaixonado por:</h2> 
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-
----
 
 
 - 🔭 I’m currently studying at Cesar School  
