@@ -21,8 +21,8 @@ Hello buddy! </br>I'm Igor 🌿🦋
   
 </div>
 
-
----
+[![Radar-Maritmo]()](https://github.com/luccarissato/Radar-Maritimo)
+![IgorGabrielDs's Stats](https://github-readme-stats.vercel.app/api?username=IgorGabrielDs&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
 <div align='center'>
   
