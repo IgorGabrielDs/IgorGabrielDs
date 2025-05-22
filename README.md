@@ -1,6 +1,7 @@
 <h1 align='center'>
 Hello buddy!</br>I'm Igor 🌿🦋
 </h1>
+
 - 🔭 I’m currently studying on Cesar School
 - 🌱 I’m currently learning `python`|`C#`
 - 👯 I’m looking to collaborate on ...
