@@ -1,5 +1,4 @@
-## Hello buddy!
-## I`m Igor 🌿🦋
+## Hello buddy! I`m Igor 🌿🦋
 
 - 🔭 I’m currently studying on Cesar School
 - 🌱 I’m currently learning `python`|`C#`
