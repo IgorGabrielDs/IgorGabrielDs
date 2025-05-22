@@ -1,10 +1,10 @@
 <h1 align='center'>
-Hello buddy! </br>I'm Igor 🌿🦋
+Hello buddy!👋 </br>I'm Igor 🌿🦋
 </h1>
 
-<h3 align='center'> Currently passionate about:</h3> 
+## Currently passionate about: 
 
-<div align="center">
+<div>
 
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux"/>
@@ -12,27 +12,55 @@ Hello buddy! </br>I'm Igor 🌿🦋
 </div>
 <div>
   
+##
+  
 - 🔭 I’m currently studying at Cesar School  
-- 🌱 I’m currently learning `Python` | `C#`  
+- 🌱 I’m currently learning `Python` | `C#` | `C`
 - 👯 I’m looking to collaborate on `game projects`
-- 💬 Ask me about ...  
-- 😄 Pronouns: He/him  
+- 💬 Ask me about `Unity` | `GameMaker` | `Linux` 
+- 😄 Pronouns: `He`/`him`  
 - ⚡ Fun fact: I love games!
   
 </div>
+
 ## Cotributions: 
 
 [![Radar Marítimo](https://github-readme-stats.vercel.app/api/pin/?username=luccarissato&repo=Radar-Maritimo&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/luccarissato/Radar-Maritimo)
 
+### ⚙️ GitHub Analytics
 
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=IgorGabrielDs&theme=dark&show_icons=true&hide_border=false&count_private=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=IgorGabrielDs&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGabrielDs&theme=dark&show_icons=true&hide_border=false&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 
-
-![IgorGabrielDs's Stats](https://github-readme-stats.vercel.app/api?username=IgorGabrielDs&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![IgorGabrielDs's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IgorGabrielDs&theme=dark&hide_border=true)
+--- 
 
 <div align='center'>
   
-Find me here:
+📨 Find me here:
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igor._gabrield/)
