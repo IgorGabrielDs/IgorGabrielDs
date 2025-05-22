@@ -9,6 +9,7 @@ Hello buddy!👋</br>I'm Igor 🌿🦋
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux"/>
 </div>
 
+<div>
 - 🔭 I’m currently studying on Cesar School
 - 🌱 I’m currently learning `Python`|`C#`
 - 👯 I’m looking to collaborate on ...
@@ -16,6 +17,7 @@ Hello buddy!👋</br>I'm Igor 🌿🦋
 - 💬 Ask me about ...
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love games!
+</div>
 
   
 <div align='center'>
