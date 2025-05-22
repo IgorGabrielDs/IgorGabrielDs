@@ -1,6 +1,5 @@
-<h1 align='center'>
-Hello buddy!👋</br>I'm Igor 🌿🦋
-</h1>
+
+## Hello buddy!👋</br>I'm Igor 🌿🦋
 
 ---
 ## Atualmente apaixonado por:
