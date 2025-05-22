@@ -1,8 +1,8 @@
 <h1 align='center'>
-Hello buddy!👋</br>I'm Igor 🌿🦋
+Hello buddy! </br>I'm Igor 🌿🦋
 </h1>
 
-<h2 align='center'> Currently passionate about:</h2> 
+<h3 align='center'> Currently passionate about:</h3> 
 
 <div align="center">
 
