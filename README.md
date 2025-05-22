@@ -17,7 +17,9 @@ Hello buddy!👋</br>I'm Igor 🌿🦋
 - 💬 Ask me about ...  
 - 😄 Pronouns: He/him  
 - ⚡ Fun fact: I love games!
-  
+
+---
+
 <div align='center'>
   
 Find me here:
