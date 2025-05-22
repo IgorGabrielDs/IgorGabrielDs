@@ -1,7 +1,7 @@
+<h1 align='center'>
+Hello buddy!👋</br>I'm Igor 🌿🦋
+</h1>
 
-## Hello buddy!👋</br>I'm Igor 🌿🦋
-
----
 ## Atualmente apaixonado por:
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
