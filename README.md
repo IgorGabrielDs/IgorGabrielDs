@@ -3,7 +3,7 @@ Hello buddy!👋</br>I'm Igor 🌿🦋
 </h1>
 
 <div align="center">
-  <h1>Currently passionate about:</h1>
+  <h2>Currently passionate about:</h2>
   
   <br>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
