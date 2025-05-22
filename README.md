@@ -20,9 +20,9 @@ Hello buddy! </br>I'm Igor 🌿🦋
 - ⚡ Fun fact: I love games!
   
 </div>
-<h4>Cotributions: </h4>
+## Cotributions: 
 
-[![Radar-Maritmo]()](https://github.com/luccarissato/Radar-Maritimo)
+[![Radar Marítimo](https://github-readme-stats.vercel.app/api/pin/?username=luccarissato&repo=Radar-Maritimo&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/luccarissato/Radar-Maritimo)
 
 
 
