@@ -8,6 +8,7 @@ Hello buddy!👋</br>I'm Igor 🌿🦋
   <br>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="Arch Linux"/>
+  
 </div>
 
 - 🔭 I’m currently studying at Cesar School  
