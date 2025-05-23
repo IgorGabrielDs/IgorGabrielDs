@@ -19,7 +19,7 @@ Hello buddy!👋 </br>I'm Igor 🌿🦋
 - 👯 I’m looking to collaborate on `game projects`
 - 💬 Ask me about `Unity` | `GameMaker` | `Linux` 
 - 😄 Pronouns: `He`/`him`  
-- ⚡ Fun fact: I love games!
+- ⚡ Fun fact: `I love games!`
   
 </div>
 
