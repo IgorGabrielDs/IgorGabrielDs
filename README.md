@@ -2,7 +2,7 @@
 Hello buddy!👋 </br>I'm Igor 🌿🦋
 </h1>
 
-## Currently passionate about: 
+## 🍃Currently passionate about: 
 
 <div>
 
@@ -23,7 +23,7 @@ Hello buddy!👋 </br>I'm Igor 🌿🦋
   
 </div>
 
-## Cotributions: 
+## 🪴Cotributions: 
 
 [![Radar Marítimo](https://github-readme-stats.vercel.app/api/pin/?username=luccarissato&repo=Radar-Maritimo&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/luccarissato/Radar-Maritimo)
 
