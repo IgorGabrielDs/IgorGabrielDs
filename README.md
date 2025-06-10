@@ -22,6 +22,9 @@ Hello!👋 </br>I'm Igor 🌿🦋
   
 </div>
 
+## My Projects:
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IgorGabrielDs&repo=IgorsPortfolio&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)]([https://github.com/luccarissato/Radar-Maritimo](https://github.com/IgorGabrielDs/IgorsPortfolio))
+
 ## 🪴Cotributions: 
 
 [![Radar Marítimo](https://github-readme-stats.vercel.app/api/pin/?username=luccarissato&repo=Radar-Maritimo&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/luccarissato/Radar-Maritimo)
