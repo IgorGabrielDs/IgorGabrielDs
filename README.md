@@ -5,8 +5,17 @@ Hello!👋 </br>I'm Igor 🌿🦋
 ## 🍃Currently passionate about: 
 
 <div>
-
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine"/>
+  <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)"/>
 
 </div>
 <div>
@@ -14,20 +23,17 @@ Hello!👋 </br>I'm Igor 🌿🦋
 ##
   
 - 🔭 I’m currently studying at Cesar School  
-- 🌱 I’m currently learning `Python` | `C#` | `C`
+- 🌱 I’m currently learning `Python` | `Godot` | `C` | 
 - 👯 I’m looking to collaborate on `game projects`
-- 💬 Ask me about `Unity` | `GameMaker` | `Linux` 
+- 💬 Ask me about `Godot` | `Linux` 
 - 😄 Pronouns: `He`/`him`  
-- ⚡ Fun fact: `I love games!`
+- ⚡ Fun fact: `I love create new things!`
   
 </div>
 
 ## 🌿 My Projects:
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=IgorGabrielDs&repo=IgorsPortfolio&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/IgorGabrielDs/IgorsPortfolio)
 
 ## 🪴Cotributions: 
-
-[![Radar Marítimo](https://github-readme-stats.vercel.app/api/pin/?username=luccarissato&repo=Radar-Maritimo&title_color=C9D1D9&icon_color=8B949E&text_color=8B949E&bg_color=0D1117)](https://github.com/luccarissato/Radar-Maritimo)
 
 ### ⚙️ GitHub Analytics
 
