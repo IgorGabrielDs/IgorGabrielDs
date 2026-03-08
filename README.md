@@ -19,7 +19,7 @@ Hello!👋 </br>I'm Igor 🌿🦋
 ##
   
 - 🔭 I’m currently studying at Cesar School  
-- 🌱 I’m currently learning `Python` | `Godot` | `C` | 
+- 🌱 I’m currently learning `Python` | `Godot` | `C`  
 - 👯 I’m looking to collaborate on `game projects`
 - 💬 Ask me about `Godot` | `Linux` 
 - 😄 Pronouns: `He`/`him`  
@@ -67,8 +67,8 @@ Hello!👋 </br>I'm Igor 🌿🦋
 📨 Find me here:
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/igor._gabrield/)
-[![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/igortrashcan)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/igdstrash/)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/igdstrash/)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/igortrashcan/)
 [![LindIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/igorgabrields/)
 
