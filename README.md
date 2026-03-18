@@ -1,5 +1,5 @@
 <h1 align='center'>
-Hello!👋 </br>I'm Igor 🌿🦋
+Hello! </br>I'm Igor 
 </h1>
 
 ## 🍃Currently passionate about: 
