@@ -1,6 +1,7 @@
 <h1 align='center'>
 Hello! </br>I'm Igor 
 </h1>
+<img width="1270" height="69" alt="image" src="https://github.com/user-attachments/assets/5c448e8a-6915-4d30-ad0c-fca6b150a06f" />
 
 ## 🍃Currently passionate about: 
 
