@@ -28,39 +28,6 @@ Hello! </br>I'm Igor
   
 </div>
 
-## 🌿 My Projects:
-
-## 🪴Cotributions: 
-
-### ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=IgorGabrielDs&theme=dark&show_icons=true&hide_border=false&count_private=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=IgorGabrielDs&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGabrielDs&theme=dark&show_icons=true&hide_border=false&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
 --- 
 
 <div align='center'>
