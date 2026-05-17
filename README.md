@@ -35,7 +35,7 @@ Hello! </br>I'm Igor
 📨 Find me here:
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/igdstrash/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/igds.co/)
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/igdstrash/)
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/igortrashcan/)
 [![LindIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/igorgabrields/)
